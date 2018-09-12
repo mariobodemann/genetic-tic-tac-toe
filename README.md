@@ -1,5 +1,6 @@
 # Genetic Tic-Tac-Toe
 
+```
 ┌-┬-┬-┐
 │ │ │ │
 ├-┼-┼-┤
@@ -63,5 +64,6 @@
 ├-┼-┼-┤
 │X│O│X│
 └-┴-┴-┘
+```
 
 Can I teach an ai thourgh ml via gp to _always_ win against a random player?
