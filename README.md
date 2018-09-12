@@ -1,2 +1,67 @@
-# genetic-tic-tac-toe
-Playground for playing with grounds in genetic programming: Can I teach tic-tac-toe? (Spoiler: to 70% maybe)
+# Genetic Tic-Tac-Toe
+
+┌-┬-┬-┐
+│ │ │ │
+├-┼-┼-┤
+│ │X│ │
+├-┼-┼-┤
+│ │ │ │
+└-┴-┴-┘
+┌-┬-┬-┐
+│O│ │ │
+├-┼-┼-┤
+│ │X│ │
+├-┼-┼-┤
+│ │ │ │
+└-┴-┴-┘
+┌-┬-┬-┐
+│O│X│ │
+├-┼-┼-┤
+│ │X│ │
+├-┼-┼-┤
+│ │ │ │
+└-┴-┴-┘
+┌-┬-┬-┐
+│O│X│ │
+├-┼-┼-┤
+│ │X│ │
+├-┼-┼-┤
+│ │O│ │
+└-┴-┴-┘
+┌-┬-┬-┐
+│O│X│ │
+├-┼-┼-┤
+│ │X│ │
+├-┼-┼-┤
+│X│O│ │
+└-┴-┴-┘
+┌-┬-┬-┐
+│O│X│O│
+├-┼-┼-┤
+│ │X│ │
+├-┼-┼-┤
+│X│O│ │
+└-┴-┴-┘
+┌-┬-┬-┐
+│O│X│O│
+├-┼-┼-┤
+│X│X│ │
+├-┼-┼-┤
+│X│O│ │
+└-┴-┴-┘
+┌-┬-┬-┐
+│O│X│O│
+├-┼-┼-┤
+│X│X│O│
+├-┼-┼-┤
+│X│O│ │
+└-┴-┴-┘
+┌-┬-┬-┐
+│O│X│O│
+├-┼-┼-┤
+│X│X│O│
+├-┼-┼-┤
+│X│O│X│
+└-┴-┴-┘
+
+Can I teach an ai thourgh ml via gp to _always_ win against a random player?
